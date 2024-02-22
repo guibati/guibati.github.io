@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://t0mas1t0.github.io/Engine4You/",
+  "homepage": "https://guibati.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
